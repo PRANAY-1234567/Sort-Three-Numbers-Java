@@ -11,11 +11,12 @@ The program uses basic conditional checks and swapping logic to sort the three i
 ## 💡 Logic
 
 1. Take three numbers as input.
-2. Compare and swap them using `if` conditions:
+
+3. Compare and swap them using `if` conditions:
    - If `a > b`, swap `a` and `b`
    - If `a > c`, swap `a` and `c`
    - If `b > c`, swap `b` and `c`
-3. Print the numbers in ascending order.
+4. Print the numbers in ascending order.
 
 ## 🛠️ Requirements
 
