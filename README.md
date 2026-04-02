@@ -8,7 +8,6 @@ The program uses basic conditional checks and swapping logic to sort the three i
 
 ### 📌 Example Input/Output
 
-
 ## 💡 Logic
 
 1. Take three numbers as input.
