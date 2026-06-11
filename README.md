@@ -6,7 +6,6 @@ This is a simple Java program that takes three integer inputs from the user and 
 
 The program uses basic conditional checks and swapping logic to sort the three input numbers without using arrays or built-in sorting methods.
 
-### 📌 Example Input/Output
 
 ## 💡 Logic
 
