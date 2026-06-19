@@ -3,7 +3,6 @@
 ## 📌 Overview
 
 This Java program accepts three numbers from the user and arranges them in **ascending order** (smallest to largest).
-
 The program uses simple comparison and swapping techniques without relying on arrays or built-in sorting methods, making it an excellent example for beginners learning conditional statements and logical problem-solving.
 
 ---
