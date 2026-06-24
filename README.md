@@ -175,7 +175,6 @@ No extra data structures are used.
 ---
 
 ## 👨‍💻 Author
-
 **Pranay Jadhao**
 
 Electronics & Telecommunication Engineer
