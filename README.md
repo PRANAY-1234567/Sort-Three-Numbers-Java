@@ -177,7 +177,6 @@ No extra data structures are used.
 **Pranay Jadhao**
 
 Electronics & Telecommunication Engineer
-
 Aspiring Software Engineer | Java | Python | SQL
 
 ---
